@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5a21a7-a1be-4ef0-ab34-bf025552f90a" name="Changes" comment="" />
+    <list default="true" id="9c5a21a7-a1be-4ef0-ab34-bf025552f90a" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/Desktop/myPROJsymphony/src/partials/footer.html.twig" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/myPROJsymphony/src/partials/header.html.twig" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/myPROJsymphony/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/myPROJsymphony/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/myPROJsymphony" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2 (1)">
     <include_path>
@@ -160,7 +168,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.ini&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyProjSymfony&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -189,6 +198,8 @@
       <workItem from="1733602520087" duration="14000" />
       <workItem from="1733602933262" duration="59000" />
       <workItem from="1733645671104" duration="1186000" />
+      <workItem from="1733657796501" duration="239000" />
+      <workItem from="1734427962442" duration="24000" />
     </task>
     <servers />
   </component>
